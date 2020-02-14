@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aihuewailo.clap.space/sitemap.xml
